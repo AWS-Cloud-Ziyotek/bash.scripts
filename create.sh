@@ -1,4 +1,5 @@
 #!/bin/bash
+#can I add something here too?
 
 echo -n "Please enter filename you woul dlike to create: "
 
